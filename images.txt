@@ -1,3 +1,4 @@
+kolla/ubuntu-source-cephfs-fuse:train
 rook/ceph:master
 #rook/ceph
 #支持私库
