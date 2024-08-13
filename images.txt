@@ -1,3 +1,4 @@
+debian:stable-backports
 kolla/ubuntu-source-cephfs-fuse:train
 rook/ceph:master
 #rook/ceph
