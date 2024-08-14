@@ -1,4 +1,5 @@
 ubuntu
+ubuntu:22.04
 debian:stable-backports
 kolla/ubuntu-source-cephfs-fuse:train
 rook/ceph:master
