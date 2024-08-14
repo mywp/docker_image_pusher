@@ -1,3 +1,4 @@
+debian:stable
 ubuntu
 ubuntu:22.04
 debian:stable-backports
