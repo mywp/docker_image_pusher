@@ -1,3 +1,4 @@
+dokken/centos-stream-9:latest
 debian:stable
 ubuntu
 ubuntu:22.04
