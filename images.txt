@@ -1,3 +1,4 @@
+enwaiax/x-ui:latest
 rhcsdashboard/ceph-base:centos_stream9
 rkachach/ceph:v18.2.1_patched_v1
 dokken/centos-stream-9:latest
