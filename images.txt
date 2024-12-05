@@ -10,7 +10,7 @@ arm64v8/ubuntu:20.04
 arm64v8/ubuntu:22.04
 nginx
 arm64v8/nginx
-#--platform=arm64
+--platform=linux/arm64
 #debian:stable-backports
 #kolla/ubuntu-source-cephfs-fuse:train
 #rook/ceph:master
