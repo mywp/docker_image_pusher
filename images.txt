@@ -6,7 +6,7 @@
 ubuntu
 ubuntu:20.04
 ubuntu:22.04
---platform=linux/arm64
+--platform=arm64
 #debian:stable-backports
 #kolla/ubuntu-source-cephfs-fuse:train
 #rook/ceph:master
