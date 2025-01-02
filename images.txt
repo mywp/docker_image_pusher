@@ -1,9 +1,11 @@
+ghcr.io/open-webui/open-webui:ollama
+#ollama/ollama
 #enwaiax/x-ui:latest
 #rhcsdashboard/ceph-base:centos_stream9
 #rkachach/ceph:v18.2.1_patched_v1
 #dokken/centos-stream-9:latest
 #debian:stable
-ollama/ollama
+
 #ubuntu
 #ubuntu:20.04
 #ubuntu:22.04
