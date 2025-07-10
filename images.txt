@@ -1,3 +1,4 @@
+vdsm/virtual-dsm
 coturn/coturn
 ghcr.io/open-webui/open-webui:ollama
 ollama/ollama
