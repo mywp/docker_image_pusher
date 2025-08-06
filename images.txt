@@ -1,8 +1,8 @@
 
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
-docker.io/valkey/valkey:8-bookworm@sha256:facc1d2c3462975c34e10fccb167bfa92b0e0dbd992fc282c29a61c3243afb11
-ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0@sha256:5f6a838e4e44c8e0e019d0ebfe3ee8952b69afc2809b2c25f7b0119641978e91
+docker.io/valkey/valkey:8-bookworm@
+ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
 vdsm/virtual-dsm
 coturn/coturn
 ghcr.io/open-webui/open-webui:ollama
