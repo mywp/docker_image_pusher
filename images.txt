@@ -1,7 +1,7 @@
 
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
-docker.io/valkey/valkey:8-bookworm@
+docker.io/valkey/valkey:8-bookworm
 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
 vdsm/virtual-dsm
 coturn/coturn
