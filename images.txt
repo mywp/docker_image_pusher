@@ -1,3 +1,4 @@
+--platform=linux/arm64 1panel/openclaw:2026.4.22
 --platform=linux/arm64 dpanel/dpanel
 #--platform=linux/arm64 jumpserver/jms_all
 --platform=linux/arm64 linkease/istorepanel
