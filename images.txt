@@ -1,4 +1,4 @@
-#--platform=linux/arm64 dpanel/dpanel
+--platform=linux/arm64 dpanel/dpanel
 #--platform=linux/arm64 jumpserver/jms_all
 --platform=linux/arm64 linkease/istorepanel
 
